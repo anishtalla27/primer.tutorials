@@ -152,7 +152,7 @@ In the Console, run:
 show_file("postcards.qmd", start = -5)
 ```
 
-CP/CR.
+CP/CR. test
 
 ```{r introduction-3}
 question_text(NULL,
